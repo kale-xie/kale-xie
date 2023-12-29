@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+void main(){
+print("hello world!");
+}
 <!--
 **kale-xie/kale-xie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
